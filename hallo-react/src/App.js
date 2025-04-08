@@ -12,7 +12,7 @@ const App = ()=>{
   return(
     <>
       <h1>Hallo React</h1>
-      <h2>Nama saya Lukmanul Hakim</h2>
+      <h2>Nama saya RENO ARYA</h2>
       <Header />
     </>
   )
